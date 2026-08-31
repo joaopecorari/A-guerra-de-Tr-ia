@@ -1,1 +1,60 @@
+body {
+    background-color: #e8e0d0;
+    font-family: Arial;
+    margin: 0;
+}
 
+header {
+    background-color: #5c2c06;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom: 5px solid #d49a32;
+}
+
+header h1 {
+    color: #d49a32;
+}
+
+main {
+    margin: 20px;
+}
+
+article {
+    background-color: white;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+article h1 {
+    color: #5c2c06;
+}
+
+article p {
+    line-height: 1.5;
+}
+
+article li {
+    margin-bottom: 10px;
+}
+
+img {
+    width: 30%;
+    margin: 10px;
+}
+
+video {
+    width: 70%;
+}
+
+button {
+    background-color: #5c2c06;
+    color: white;
+    border: none;
+    padding: 8px;
+    margin: 5px;
+}
+
+button:hover {
+    background-color: #d49a32;
+}
